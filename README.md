@@ -79,3 +79,4 @@ This project analyzes a global freelancer dataset to uncover patterns in hourly 
 - Power BI dashboard — Complete
 - GitHub — Complete
 - LinkedIn update — Pending
+- ![Snapshot Of Dashboard](Snapshot Of Dashboard.png)
