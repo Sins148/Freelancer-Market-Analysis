@@ -3,7 +3,7 @@
 
 ## Description
 This project analyzes a global freelancer dataset to uncover patterns in hourly rates, skill demand, client satisfaction, and freelancer activity across different countries. The goal was to practice end-to-end data analysis — from raw data cleaning in Excel to building an interactive dashboard in Power BI that business stakeholders can use to make informed decisions about freelancer hiring and pricing.
-![Snapshot Of Dashboard](Snapshot Of Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Dashboard Features
 - Filter the entire dashboard by gender, primary skill, and country using interactive slicers
